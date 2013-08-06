@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\built\Nuget" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="05/29/2013 17:01:34" />
+    <file relUrl="bin/Elmah.dll" publishTime="05/29/2013 15:48:18" />
+    <file relUrl="bin/NuGet.Server.dll" publishTime="05/29/2013 15:48:18" />
+    <file relUrl="bin/Microsoft.Web.Infrastructure.dll" publishTime="05/29/2013 15:48:18" />
+    <file relUrl="bin/Ninject.pdb" publishTime="05/29/2013 15:48:18" />
+    <file relUrl="packages.config" publishTime="05/29/2013 15:48:31" />
+    <file relUrl="bin/RouteMagic.dll" publishTime="05/29/2013 15:48:18" />
+    <file relUrl="bin/WebActivator.dll" publishTime="05/29/2013 15:48:18" />
+    <file relUrl="bin/Ninject.xml" publishTime="05/29/2013 15:48:18" />
+    <file relUrl="bin/Homesofts.Nuget.pdb" publishTime="08/05/2013 10:16:17" />
+    <file relUrl="Packages/Readme.txt" publishTime="05/29/2013 15:48:31" />
+    <file relUrl="bin/Homesofts.Nuget.dll" publishTime="08/05/2013 10:16:17" />
+    <file relUrl="bin/Ninject.dll" publishTime="05/29/2013 15:48:18" />
+    <file relUrl="favicon.ico" publishTime="05/29/2013 15:48:31" />
+    <file relUrl="App_Readme/Elmah.txt" publishTime="05/29/2013 15:48:30" />
+    <file relUrl="Default.aspx" publishTime="05/29/2013 15:48:31" />
+    <file relUrl="DataServices/Packages.svc" publishTime="05/29/2013 15:48:31" />
+    <file relUrl="bin/NuGet.Core.dll" publishTime="05/29/2013 15:48:18" />
+  </publishProfile>
+</publishData>
